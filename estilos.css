@@ -1,0 +1,11 @@
+/*Estilos*/
+
+.top-nav .social-icons a {
+    color: #FFF;
+    opacity: 1 !important;
+}
+
+#respond {
+    display: none;
+}
+
